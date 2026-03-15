@@ -26,4 +26,10 @@ All results are 100% reproducible. The operator is synthetic but demonstrates st
 
 This is the third Millennium problem toolkit (after Riemann and [Private]) released by CoreTheoretics.
 
+DOI:
+10.6084/m9.figshare.31742944
+10.5281/zenodo.19036604
+
+https://github.com/core-theoretics/Yang-Mills-Operator
+
 License: CC0 1.0 Universal
